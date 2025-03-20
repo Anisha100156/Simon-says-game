@@ -30,21 +30,13 @@ The **Simon Says Game** is a fun memory-based game built using **HTML, CSS, and 
    ```
 2. Navigate to the project folder:
    ```sh
-   cd simon-says-game
+   cd simone
    ```
 3. Open `index.html` in a browser to start playing.
 
-## Future Enhancements
-- Add sound effects for button clicks and game feedback.
-- Implement a high-score system using local storage.
-- Add different difficulty levels.
-- Improve UI/UX with animations and better styling.
 
-## Screenshot
-![Game Screenshot](image.png)
 
-## License
-This project is open-source and available under the **MIT License**.
+## Preview
+![Game Screenshot](preview1.png)
+![Game Screenshot](preview2.png)
 
-## Author
-Developed by **Your Name**.
